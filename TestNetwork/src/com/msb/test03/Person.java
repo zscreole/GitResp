@@ -8,4 +8,5 @@ package com.msb.test03;
  */
 public class Person {
     private String name;
+    private int age;
 }
